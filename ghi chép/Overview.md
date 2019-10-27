@@ -1,0 +1,14 @@
+- Key
+    - Infomation visualization
+- Thông tin, dữ liệu biến thành hình ảnh
+- Câu hỏi:
+    - Hình ảnh đó thể hiện điều gì?
+    - Làm sao để đánh giá trực quan hóa dữ liệu có hiệu quả hay không
+- Công cụ:
+    - Exel, Tableau
+    - Python, pandas, matplotlib(visualization), __seaborn__ (sử dụng trong thống kê mô tả), ...
+    - D3JS ...
+- Tài liệu 
+    - Semiology of Graphic
+    - Visualization Analysis & Design
+    - Data Science
