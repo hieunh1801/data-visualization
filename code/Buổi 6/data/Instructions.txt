@@ -1,0 +1,5 @@
+When you are ready to begin working with the streaming data, send an email to VASTChal2016MC3@gmail.com with your name, your institution, and the names of your other team members. You will receive a response that includes the name of the web server to connect to, and a user ID to use for the web service connection. Please note that these responses are not automated, so it may take a day or two to receive a response.
+
+A test data stream will be made available, which will be composed of the first day of data from Mini-Challenge 2 in a streaming format. You will be able to replay this data as many times as you choose. This data will also include an example of the type of prompt you will receive to select the additional sensor you wish to place in the building.
+
+The official data stream for the challenge will cover 60 hours of data. It will stream continuously over 60 hours, although you can restart it from where you left off if you lose your data connection. The official data stream for the challenge can be run only once.
